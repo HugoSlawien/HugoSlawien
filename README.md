@@ -22,7 +22,7 @@
 > **Warning**
 > This user is a registered sex offender.
 > > **Alert**
-> ```This user hates golang & json files!```
+> ```This user hates feminists!```
 ```md
 |  ⛧ ballhausen3@gmail.com ⛧
 | ──────────────────────────────
