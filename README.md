@@ -26,11 +26,6 @@
 ```md
 |  ⛧ ballhausen3@gmail.com ⛧
 | ──────────────────────────────
-| ϟ・t.me/HugoSlawien1337
-| ϟ・Known as kaworu 
-| ──────────────────────────────
-├── Language
-│   ├── .Py
 |
 └── goodbye
 ```
